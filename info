@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Information</title>
+</head>
+<body bgcolor="tomato">
+<div align="center">
+<font color="red"><b>Information about the area</b></font>
+<br><br>
+<hr width="600">
+<memique><font color ="Green">Thank you for visiting my page!!</font> </memique>
+<hr width="600">
+
+<br><br>
+<font color="blue">MY first line of text on the webpage</font>
+<br>
+<a href ="https://www.google.com/">google search</a>
+</div> 
+</body>
+</html>
